@@ -1,0 +1,205 @@
+body{
+    background-color: #F6F8F9;
+}
+.logo{
+    font-size: 50px;
+    color: #e91135;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 70px;
+}
+header{
+    background-color: white;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+	width: 100%;
+	z-index: 100;
+}
+nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+li{
+    display: inline-block;
+	vertical-align: middle;
+	margin-right: 30px;
+}
+.first{
+    color: black;
+
+}
+li a {
+	font-size: 21px;
+	color: #343638;
+    font-family: 'Open Sans', sans-serif;
+}
+.chris{
+    width: 30px;
+    height: 30px;
+    top: 11px;
+    vertical-align: middle;
+}
+/* Section Trending */
+.trendinga{
+    
+    width: 1026px;
+    height: 20px;
+
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 120px;
+    margin-left: 13%;
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 20px;
+    font-style: normal;
+    text-align: left;
+    color: #202124;
+}
+/* Section photos P1 */
+.s-1 {
+	margin-top: 68px;
+    margin-left: 200px;
+    max-width: 1026px;
+    
+}
+.container {
+	width: 1170px;
+	margin: 0 auto;
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.wrapper {
+	display: inline-block;
+	position: relative;
+    max-width: 380px;
+    background-color: white;
+
+}
+h2{
+    font-size: 16px;
+    color: #FFFFFF;
+    position: absolute;
+	top: 10%;
+	left: 30%;
+	-webkit-transform: translate(-50%, -50%);
+	    -ms-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+	
+}
+.wrapper p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 23px;
+    font-style: normal;
+    text-align: left;
+    color: #a6adb4;
+    padding-top: 20px;
+    max-width: 280px;
+    padding: 20px 20px;
+    
+}
+.patala{
+    align-items: center;
+    display: flex;
+    vertical-align: middle;
+    padding-bottom: 20px;
+    
+    
+}
+.patala img{
+    padding-left: 20px;
+}
+.patala p{
+    padding: 0;
+    padding-left: 7px;
+    
+}
+/* Section 2 Hapening now */
+.s-2{
+    width: 1026px;
+    height: 20px;
+
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 58px;
+    margin-left: 13%;
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 20px;
+    font-style: normal;
+    text-align: left;
+    color: #202124;
+}
+/* Section 2 Photos P2 */
+.s-3{
+   
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    max-width: 1200px;
+    
+}
+.flora{
+    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    position: relative;
+}
+.fauna{
+    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.flora img{
+    border-radius: 5px;
+}
+.fauna img{
+    border-radius: 5px;
+}
+.nichio{
+    padding-bottom: 35px;
+    
+}
+.flora p{
+    position: absolute;
+    color: #FFFFFF;
+    top: 25%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	    -ms-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+}
+/* Footer */
+footer{
+    background-color: #A6ADB4;
+    display: flex;
+    margin-top: 37px;
+    padding: 20px 100px;
+    justify-content: space-around;
+    border: 2px solid #A6ADB4;
+}
+.erti{
+    display: flex;
+    flex-direction: column;
+}
+.dd img{
+    padding-left: 20px;
+}
+nav li{
+    color: #CBD0D3;
+    padding-bottom: 7px;
+}
+footer p{
+    color: #FFFFFF;
+}
+
+
